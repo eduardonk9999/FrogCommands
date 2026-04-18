@@ -1,10 +1,10 @@
-![FrogCommands Banner](./assets/frog.png)
+
 
 # 🐸 FrogCommands
 
 > Cross-platform toolkit to bootstrap a hacking environment in seconds.
 
-![FrogCommands Banner](./assets/banner.png)
+![FrogCommands Banner](./assets/frog.png)
 
 ---
 
